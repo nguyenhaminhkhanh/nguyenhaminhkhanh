@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Khanh Nguyen<br>My major is Business Analytics<br>I am interested in strategic decision, decision modelling, financial assessment, and so on<br>Graduate From University of Cincinnati | Class of 2025
+My name is Khanh Nguyen<br>My major is Business Analytics<br>I am interested in data analysis, strategic decision, decision modelling, financial assessment, and so on<br>Graduate From University of Cincinnati | Class of 2025
 
 
 ## 🌐 Socials:
